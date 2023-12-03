@@ -14,7 +14,7 @@ pUrl = 'https://github.com/cemekingen/cemo21/blob/main/FGW2STR(Cem).py'
 # ______________________________ Initializing ______________________________ #
 
 DIMENSIONAL_COOLDOWN_DELAY = 7200 # seconds (2 hours)
-WAIT_DROPS_DELAY_MAX = 10 # seconds
+WAIT_DROPS_DELAY_MAX = 5 # seconds
 COUNT_MOBS_DELAY = 1.0 # seconds
 
 # Globals
