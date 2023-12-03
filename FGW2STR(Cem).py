@@ -9,7 +9,7 @@ import os
 
 pVersion = '1.0.0'
 pName = 'FGW2STR'
-pUrl = ''
+pUrl = 'https://github.com/cemekingen/cemo21/blob/main/FGW2STR(Cem).py'
 
 # ______________________________ Initializing ______________________________ #
 
